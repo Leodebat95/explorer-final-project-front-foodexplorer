@@ -1,7 +1,7 @@
 # Front-end - Projeto Final | Final Project
 
 Projeto final do Front-end, de nome "Food Explorer".<br>
-Faz parte do curso "Explorer", da plataforma de ensino [Rocketseat](https://rocketseat.com.br/).l
+Faz parte do curso "Explorer", da plataforma de ensino [Rocketseat](https://rocketseat.com.br/).
 <br>—<br>
 Front-end final project, named "Food Explorer".<br>
 Part of the program "Explorer", from the online platform [Rocketseat](https://rocketseat.com.br/).
